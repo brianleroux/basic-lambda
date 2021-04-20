@@ -1,2 +1,0 @@
-# basic-lambda
-Begin app
